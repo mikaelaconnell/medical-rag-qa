@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+data/faiss_index.bin
+data/eval_results_*.json
+.DS_Store
+*.egg-info/
+dist/
+build/
